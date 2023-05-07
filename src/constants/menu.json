@@ -1,0 +1,31 @@
+{
+  "menu":[
+    {
+      "title": "ALL"
+    },
+    {
+      "title": "NEW"
+    },
+    {
+      "title": "APPAREL"
+    },
+    {
+      "title": "ACCESSORIES"
+    },
+    {
+      "title": "COLLECTIBLES"
+    },
+    {
+      "title": "HOME & OFFICE"
+    },
+    {
+      "title": "GAMING GEARS"
+    },
+    {
+      "title": "COLLABORATION"
+    },
+    {
+      "title": "EVENT"
+    }
+  ]
+}
